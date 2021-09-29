@@ -1,0 +1,2 @@
+# Clustering-Practice-on-Olivetti-faces-Dataset
+This is a practice code for clustering. The machine learning is a K-means unsupervised machine learning model is used to train the Olivetti faces dataset to predict the image of each person represented in the dataset. This is an unsupervised stratification and clustering task that involves stratification sampling and dimensonality reduction using Principal Component Analysis (PCA) method in Scikit-Learn.
